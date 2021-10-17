@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Books
+comment1.params=
+comment1.target=void\ Open()
+comment2.params=
+comment2.target=void\ Close()
+comment3.params=
+comment3.target=void\ Read()
+numComments=4

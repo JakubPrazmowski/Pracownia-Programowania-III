@@ -1,0 +1,23 @@
+a.Smartphone:
+attributes:
+name
+brand
+productionDate
+height
+width
+behaviors:
+turnOn
+turnOff
+call
+b.Bank account:
+attributes:
+ownerName
+ownerSurname
+id
+accountBalance
+bankName
+behaviors:
+logIn
+logOut
+makeTransfer
+
