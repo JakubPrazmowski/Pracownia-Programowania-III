@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Convert
+comment1.params=x
+comment1.target=double\ CelsiusToFahrenheit(double)
+comment2.params=x
+comment2.target=double\ CelsiusToKelvin(double)
+comment3.params=x
+comment3.target=double\ KelvinToCelsius(double)
+comment4.params=x
+comment4.target=double\ KelvinToFahrenheit(double)
+comment5.params=x
+comment5.target=double\ FahrenheitToCelsius(double)
+comment6.params=x
+comment6.target=double\ FahrenheitToKelvin(double)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
