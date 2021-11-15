@@ -93,5 +93,6 @@ public class DrivingLicense{
         drivingLicense1.display();
         drivingLicense1.setName("aDaM");
         drivingLicense1.display();
+        System.out.println(drivingLicense1);
     }
 }
